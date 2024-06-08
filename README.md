@@ -2,8 +2,8 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Chess Openings](#chess-openings)
-- [MasterChess](#masterchess)
+- [Chess Openings](#app-1-chess-openings)
+- [MasterChess](#app-2-masterchess)
 - [Webscraper](#webscraper)
 - [Installation](#installation)
 
