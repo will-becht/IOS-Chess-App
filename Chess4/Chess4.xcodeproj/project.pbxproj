@@ -1,0 +1,444 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AE1A60EC282225D300FB5DBE /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE1A60EB282225D300FB5DBE /* Extensions.swift */; };
+		AE6979DA2824D91100FDAF5D /* SettingsMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6979D92824D91100FDAF5D /* SettingsMenuView.swift */; };
+		AE6979DC2824DADF00FDAF5D /* PuzzleMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6979DB2824DADF00FDAF5D /* PuzzleMenuView.swift */; };
+		AE6979DE2824DC3E00FDAF5D /* LearnMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6979DD2824DC3E00FDAF5D /* LearnMenuView.swift */; };
+		AE6979E42824E6FA00FDAF5D /* testView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6979E32824E6FA00FDAF5D /* testView.swift */; };
+		AE6979E62824E81A00FDAF5D /* testView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6979E52824E81A00FDAF5D /* testView2.swift */; };
+		AE6979E82824E92200FDAF5D /* MainViewOld1.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6979E72824E92200FDAF5D /* MainViewOld1.swift */; };
+		AE7E4FD6280B8D68007C7CCE /* Chess4App.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE7E4FD5280B8D68007C7CCE /* Chess4App.swift */; };
+		AE7E4FD8280B8D68007C7CCE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE7E4FD7280B8D68007C7CCE /* ContentView.swift */; };
+		AE7E4FDA280B8D69007C7CCE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE7E4FD9280B8D69007C7CCE /* Assets.xcassets */; };
+		AE7E4FDD280B8D69007C7CCE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE7E4FDC280B8D69007C7CCE /* Preview Assets.xcassets */; };
+		AE7E4FE4280B9547007C7CCE /* bestPuzzles.txt in Resources */ = {isa = PBXBuildFile; fileRef = AE7E4FE3280B9547007C7CCE /* bestPuzzles.txt */; };
+		AE9817D82821E18100C2BBEA /* oldCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9817D72821E18100C2BBEA /* oldCode.swift */; };
+		AECF70902857722600F55F77 /* VisualizationQuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AECF708F2857722600F55F77 /* VisualizationQuizView.swift */; };
+		AED4926F2831951A00DABDBE /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED4926E2831951A00DABDBE /* SplashView.swift */; };
+		AED492722831A45C00DABDBE /* TransitionCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED492712831A45C00DABDBE /* TransitionCoordinator.swift */; };
+		AED88485284423B6006A5979 /* VisualizationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED88484284423B6006A5979 /* VisualizationView.swift */; };
+		AED8848728442511006A5979 /* CoordinateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED8848628442511006A5979 /* CoordinateView.swift */; };
+		AED8848928442529006A5979 /* OpeningsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED8848828442529006A5979 /* OpeningsView.swift */; };
+		AEDA87512828584A00FB7AD0 /* test3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDA87502828584A00FB7AD0 /* test3.swift */; };
+		AEDA875328285B7600FB7AD0 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDA875228285B7600FB7AD0 /* MainView.swift */; };
+		AEDC1CDF28245BBB003ADB84 /* Structs.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDC1CDE28245BBB003ADB84 /* Structs.swift */; };
+		AEDC1CE128245C00003ADB84 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDC1CE028245C00003ADB84 /* Functions.swift */; };
+		AEDC1CE328245C9C003ADB84 /* GlobalVars.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDC1CE228245C9C003ADB84 /* GlobalVars.swift */; };
+		AEDC1CE52824790D003ADB84 /* logo.gif in Resources */ = {isa = PBXBuildFile; fileRef = AEDC1CE42824790C003ADB84 /* logo.gif */; };
+		AEDC1CE728247935003ADB84 /* LoadingScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDC1CE628247935003ADB84 /* LoadingScreenView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		AE1A60EB282225D300FB5DBE /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		AE6979D92824D91100FDAF5D /* SettingsMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsMenuView.swift; sourceTree = "<group>"; };
+		AE6979DB2824DADF00FDAF5D /* PuzzleMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PuzzleMenuView.swift; sourceTree = "<group>"; };
+		AE6979DD2824DC3E00FDAF5D /* LearnMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnMenuView.swift; sourceTree = "<group>"; };
+		AE6979E32824E6FA00FDAF5D /* testView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testView.swift; sourceTree = "<group>"; };
+		AE6979E52824E81A00FDAF5D /* testView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testView2.swift; sourceTree = "<group>"; };
+		AE6979E72824E92200FDAF5D /* MainViewOld1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewOld1.swift; sourceTree = "<group>"; };
+		AE7E4FD2280B8D68007C7CCE /* Chess4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Chess4.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE7E4FD5280B8D68007C7CCE /* Chess4App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chess4App.swift; sourceTree = "<group>"; };
+		AE7E4FD7280B8D68007C7CCE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		AE7E4FD9280B8D69007C7CCE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AE7E4FDC280B8D69007C7CCE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AE7E4FE3280B9547007C7CCE /* bestPuzzles.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = bestPuzzles.txt; path = Chess4/bestPuzzles.txt; sourceTree = "<group>"; };
+		AE9817D72821E18100C2BBEA /* oldCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = oldCode.swift; sourceTree = "<group>"; };
+		AECF708F2857722600F55F77 /* VisualizationQuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualizationQuizView.swift; sourceTree = "<group>"; };
+		AED4926E2831951A00DABDBE /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
+		AED492712831A45C00DABDBE /* TransitionCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionCoordinator.swift; sourceTree = "<group>"; };
+		AED88484284423B6006A5979 /* VisualizationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualizationView.swift; sourceTree = "<group>"; };
+		AED8848628442511006A5979 /* CoordinateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinateView.swift; sourceTree = "<group>"; };
+		AED8848828442529006A5979 /* OpeningsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpeningsView.swift; sourceTree = "<group>"; };
+		AEDA87502828584A00FB7AD0 /* test3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test3.swift; sourceTree = "<group>"; };
+		AEDA875228285B7600FB7AD0 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		AEDC1CDE28245BBB003ADB84 /* Structs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Structs.swift; sourceTree = "<group>"; };
+		AEDC1CE028245C00003ADB84 /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
+		AEDC1CE228245C9C003ADB84 /* GlobalVars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalVars.swift; sourceTree = "<group>"; };
+		AEDC1CE42824790C003ADB84 /* logo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = logo.gif; sourceTree = "<group>"; };
+		AEDC1CE628247935003ADB84 /* LoadingScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingScreenView.swift; sourceTree = "<group>"; };
+		AEDC1CE828247E98003ADB84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AE7E4FCF280B8D68007C7CCE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AE7E4FC9280B8D68007C7CCE = {
+			isa = PBXGroup;
+			children = (
+				AECF708F2857722600F55F77 /* VisualizationQuizView.swift */,
+				AED8848828442529006A5979 /* OpeningsView.swift */,
+				AED8848628442511006A5979 /* CoordinateView.swift */,
+				AED88484284423B6006A5979 /* VisualizationView.swift */,
+				AED4926E2831951A00DABDBE /* SplashView.swift */,
+				AEDA875228285B7600FB7AD0 /* MainView.swift */,
+				AED4927028319CB500DABDBE /* Old Code */,
+				AE6979DD2824DC3E00FDAF5D /* LearnMenuView.swift */,
+				AE6979DB2824DADF00FDAF5D /* PuzzleMenuView.swift */,
+				AE6979D92824D91100FDAF5D /* SettingsMenuView.swift */,
+				AEDC1CE628247935003ADB84 /* LoadingScreenView.swift */,
+				AEDC1CE228245C9C003ADB84 /* GlobalVars.swift */,
+				AEDC1CE028245C00003ADB84 /* Functions.swift */,
+				AEDC1CDE28245BBB003ADB84 /* Structs.swift */,
+				AE1A60EB282225D300FB5DBE /* Extensions.swift */,
+				AE7E4FE3280B9547007C7CCE /* bestPuzzles.txt */,
+				AEDC1CE42824790C003ADB84 /* logo.gif */,
+				AE7E4FD4280B8D68007C7CCE /* Chess4 */,
+				AE7E4FD3280B8D68007C7CCE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AE7E4FD3280B8D68007C7CCE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AE7E4FD2280B8D68007C7CCE /* Chess4.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AE7E4FD4280B8D68007C7CCE /* Chess4 */ = {
+			isa = PBXGroup;
+			children = (
+				AEDC1CE828247E98003ADB84 /* Info.plist */,
+				AE7E4FD5280B8D68007C7CCE /* Chess4App.swift */,
+				AE7E4FD7280B8D68007C7CCE /* ContentView.swift */,
+				AE7E4FD9280B8D69007C7CCE /* Assets.xcassets */,
+				AE7E4FDB280B8D69007C7CCE /* Preview Content */,
+			);
+			path = Chess4;
+			sourceTree = "<group>";
+		};
+		AE7E4FDB280B8D69007C7CCE /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				AE7E4FDC280B8D69007C7CCE /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		AED4927028319CB500DABDBE /* Old Code */ = {
+			isa = PBXGroup;
+			children = (
+				AED492712831A45C00DABDBE /* TransitionCoordinator.swift */,
+				AEDA87502828584A00FB7AD0 /* test3.swift */,
+				AE6979E72824E92200FDAF5D /* MainViewOld1.swift */,
+				AE6979E52824E81A00FDAF5D /* testView2.swift */,
+				AE6979E32824E6FA00FDAF5D /* testView.swift */,
+				AE9817D72821E18100C2BBEA /* oldCode.swift */,
+			);
+			path = "Old Code";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AE7E4FD1280B8D68007C7CCE /* Chess4 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AE7E4FE0280B8D69007C7CCE /* Build configuration list for PBXNativeTarget "Chess4" */;
+			buildPhases = (
+				AE7E4FCE280B8D68007C7CCE /* Sources */,
+				AE7E4FCF280B8D68007C7CCE /* Frameworks */,
+				AE7E4FD0280B8D68007C7CCE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Chess4;
+			productName = Chess4;
+			productReference = AE7E4FD2280B8D68007C7CCE /* Chess4.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AE7E4FCA280B8D68007C7CCE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1330;
+				LastUpgradeCheck = 1330;
+				TargetAttributes = {
+					AE7E4FD1280B8D68007C7CCE = {
+						CreatedOnToolsVersion = 13.3.1;
+					};
+				};
+			};
+			buildConfigurationList = AE7E4FCD280B8D68007C7CCE /* Build configuration list for PBXProject "Chess4" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AE7E4FC9280B8D68007C7CCE;
+			productRefGroup = AE7E4FD3280B8D68007C7CCE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AE7E4FD1280B8D68007C7CCE /* Chess4 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AE7E4FD0280B8D68007C7CCE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AE7E4FDD280B8D69007C7CCE /* Preview Assets.xcassets in Resources */,
+				AEDC1CE52824790D003ADB84 /* logo.gif in Resources */,
+				AE7E4FDA280B8D69007C7CCE /* Assets.xcassets in Resources */,
+				AE7E4FE4280B9547007C7CCE /* bestPuzzles.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AE7E4FCE280B8D68007C7CCE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AE7E4FD8280B8D68007C7CCE /* ContentView.swift in Sources */,
+				AE9817D82821E18100C2BBEA /* oldCode.swift in Sources */,
+				AED4926F2831951A00DABDBE /* SplashView.swift in Sources */,
+				AED88485284423B6006A5979 /* VisualizationView.swift in Sources */,
+				AE6979DE2824DC3E00FDAF5D /* LearnMenuView.swift in Sources */,
+				AEDC1CDF28245BBB003ADB84 /* Structs.swift in Sources */,
+				AECF70902857722600F55F77 /* VisualizationQuizView.swift in Sources */,
+				AED492722831A45C00DABDBE /* TransitionCoordinator.swift in Sources */,
+				AEDA87512828584A00FB7AD0 /* test3.swift in Sources */,
+				AE6979DA2824D91100FDAF5D /* SettingsMenuView.swift in Sources */,
+				AE7E4FD6280B8D68007C7CCE /* Chess4App.swift in Sources */,
+				AE6979E82824E92200FDAF5D /* MainViewOld1.swift in Sources */,
+				AE6979E62824E81A00FDAF5D /* testView2.swift in Sources */,
+				AED8848928442529006A5979 /* OpeningsView.swift in Sources */,
+				AE6979DC2824DADF00FDAF5D /* PuzzleMenuView.swift in Sources */,
+				AEDC1CE728247935003ADB84 /* LoadingScreenView.swift in Sources */,
+				AE6979E42824E6FA00FDAF5D /* testView.swift in Sources */,
+				AEDC1CE328245C9C003ADB84 /* GlobalVars.swift in Sources */,
+				AEDA875328285B7600FB7AD0 /* MainView.swift in Sources */,
+				AE1A60EC282225D300FB5DBE /* Extensions.swift in Sources */,
+				AED8848728442511006A5979 /* CoordinateView.swift in Sources */,
+				AEDC1CE128245C00003ADB84 /* Functions.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		AE7E4FDE280B8D69007C7CCE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AE7E4FDF280B8D69007C7CCE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AE7E4FE1280B8D69007C7CCE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Chess4/Preview Content\"";
+				DEVELOPMENT_TEAM = 3GVRW7V4Q4;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Chess4/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "William-Becht.Chess4";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		AE7E4FE2280B8D69007C7CCE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Chess4/Preview Content\"";
+				DEVELOPMENT_TEAM = 3GVRW7V4Q4;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Chess4/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "William-Becht.Chess4";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AE7E4FCD280B8D68007C7CCE /* Build configuration list for PBXProject "Chess4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AE7E4FDE280B8D69007C7CCE /* Debug */,
+				AE7E4FDF280B8D69007C7CCE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AE7E4FE0280B8D69007C7CCE /* Build configuration list for PBXNativeTarget "Chess4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AE7E4FE1280B8D69007C7CCE /* Debug */,
+				AE7E4FE2280B8D69007C7CCE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AE7E4FCA280B8D68007C7CCE /* Project object */;
+}

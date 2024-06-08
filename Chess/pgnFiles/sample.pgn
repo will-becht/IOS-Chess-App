@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.09"]
+[Round "?"]
+[White "wdvhgg"]
+[Black "nickdimperio"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "1276"]
+[BlackElo "1281"]
+[TimeControl "600"]
+[EndTime "9:01:25 PST"]
+[Termination "wdvhgg won by checkmate"]
+
+1. d4 d5 2. Bf4 Nc6 3. e3 Bf5 4. c3 g6 5. g4 Be4 6. f3 Bxb1 7. Rxb1 Bg7 8. Bd3
+e5 9. Bg3 Nge7 10. f4 e4 11. Bc2 f5 12. gxf5 gxf5 13. Bh4 Qd7 14. Ba4 O-O-O 15.
+b4 Qd6 16. Ne2 a5 17. Bxc6 Qxc6 18. b5 Qd7 19. Qa4 h5 20. Qxa5 c5 21. bxc6 Qxc6
+22. Bxe7 Rde8 23. Bg5 h4 24. Qb6 Re6 25. Qxc6+ Rxc6 26. a4 Bf6 27. Bxf6 Rxf6 28.
+a5 Rc6 29. Kd2 Kc7 30. Rhg1 Ra8 31. Rg7+ Kd6 32. Ra1 b6 33. a6 b5 34. Rg6+ Kc7
+35. Rxc6+ Kxc6 36. Nc1 Kb6 37. Nb3 h3 38. Nc5 Ra7 39. Ke2 Ra8 40. Nd7+ Kc7 41.
+Nc5 Kb6 42. a7 Kc6 43. Kf2 Kb6 44. Kg3 Rxa7 45. Rxa7 Kxa7 46. Kxh3 Kb6 47. Kh4
+Ka5 48. Kg5 b4 49. cxb4+ Kxb4 50. Kxf5 Kc4 51. Ke5 Kb5 52. Kxd5 Kb4 53. Kxe4 Kb5
+54. h4 Kb4 55. h5 Kb5 56. h6 Kb4 57. Nd7 Kb5 58. h7 Kb4 59. h8=Q Kb5 60. f5 Kb4
+61. f6 Kb5 62. f7 Kb4 63. f8=Q+ Kb5 64. Qc5+ Ka4 65. Nb6+ Kb3 66. Qc4+ Ka3 67.
+Qa8+ Kb2 68. Qaa2# 1-0
