@@ -43,7 +43,7 @@
 		AE6979E32824E6FA00FDAF5D /* testView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testView.swift; sourceTree = "<group>"; };
 		AE6979E52824E81A00FDAF5D /* testView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testView2.swift; sourceTree = "<group>"; };
 		AE6979E72824E92200FDAF5D /* MainViewOld1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewOld1.swift; sourceTree = "<group>"; };
-		AE7E4FD2280B8D68007C7CCE /* Chess4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Chess4.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE7E4FD2280B8D68007C7CCE /* MasterChess.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MasterChess.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE7E4FD5280B8D68007C7CCE /* Chess4App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chess4App.swift; sourceTree = "<group>"; };
 		AE7E4FD7280B8D68007C7CCE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AE7E4FD9280B8D69007C7CCE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -105,7 +105,7 @@
 		AE7E4FD3280B8D68007C7CCE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AE7E4FD2280B8D68007C7CCE /* Chess4.app */,
+				AE7E4FD2280B8D68007C7CCE /* MasterChess.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -160,7 +160,7 @@
 			);
 			name = Chess4;
 			productName = Chess4;
-			productReference = AE7E4FD2280B8D68007C7CCE /* Chess4.app */;
+			productReference = AE7E4FD2280B8D68007C7CCE /* MasterChess.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -380,7 +380,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "William-Becht.Chess4";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = MasterChess;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -410,7 +410,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "William-Becht.Chess4";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = MasterChess;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;

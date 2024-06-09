@@ -47,7 +47,7 @@
 /* Begin PBXFileReference section */
 		AE11265A27F18150002D512A /* SurvivalScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SurvivalScene.swift; sourceTree = "<group>"; };
 		AE11265C27F18165002D512A /* SurvivalScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = SurvivalScene.sks; sourceTree = "<group>"; };
-		AE16B3BE2C143FD000300E82 /* Chess.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Chess.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE16B3BE2C143FD000300E82 /* Chess Openings.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Chess Openings.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE30BBFA27F3BF080054EA8D /* MenuScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuScene.swift; sourceTree = "<group>"; };
 		AE4AA31527CF4E9500F2149D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AE4AA31727CF4E9500F2149D /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -152,7 +152,7 @@
 			children = (
 				AEC02CBF27F5210A003484BD /* Views */,
 				AE4AA31427CF4E9500F2149D /* Chess */,
-				AE16B3BE2C143FD000300E82 /* Chess.app */,
+				AE16B3BE2C143FD000300E82 /* Chess Openings.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -249,7 +249,7 @@
 			);
 			name = Chess;
 			productName = Chess;
-			productReference = AE16B3BE2C143FD000300E82 /* Chess.app */;
+			productReference = AE16B3BE2C143FD000300E82 /* Chess Openings.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -491,7 +491,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "William-Becht.Chess";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Chess Openings";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -521,7 +521,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "William-Becht.Chess";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Chess Openings";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;

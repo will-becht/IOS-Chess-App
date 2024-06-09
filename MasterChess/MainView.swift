@@ -83,7 +83,7 @@ struct MainView: View {
                     Color("BG")
                         .ignoresSafeArea()
                     VStack {
-                        NavigationLink(destination: VisualizationQuizView()) {
+                        NavigationLink(destination: VisualizationView()) {
                             Text("Tap for view")
                                 .foregroundColor(Color.white)
                         }

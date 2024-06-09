@@ -32,10 +32,14 @@ struct VisualizationView: View {
     var moveString = "d4 d5 Bf4 Nf6 e3".components(separatedBy: " ")
     let timer = Timer.publish(every: 1, on: .current, in: .common).autoconnect()
     @State var curMove = ""
+    @State var showCheckMark = false
+    
     
     func checkAnswer() {
+        showCheckMark = true
         if locDict == correctLocDict {
             print("hey")
+            showCheckMark = true
         }
     }
     
@@ -107,6 +111,13 @@ struct VisualizationView: View {
                         }
                     }
                     Spacer()
+                    Spacer()
+                    if (showCheckMark == true) {
+                        Image(systemName: "checkmark")
+                            .resizable()
+                            .foregroundColor(.green)
+                            .frame(width: 20, height: 20, alignment: .center)
+                    }
                     Spacer()
                     Button {
                         checkAnswer()
