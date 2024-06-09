@@ -38,7 +38,7 @@ The app is largely unfinished. Its main functionality lies in the Visualize and 
 ### Sample Usage
 (((Put videos here)))
 
-https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/4950b6d8-4ef7-4780-bbd8-993d935b995a
+MasterChess/MasterChessSample.mov
 
 
 ## Webscraper
