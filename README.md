@@ -48,6 +48,7 @@ The moveScraper directory contains a Python-based webscraper that was used to co
 In the future, it would be nice to develop a way to have the app interface with popular chess engines, such as Stockfish (https://stockfishchess.org/). This would allow for analysis of random positions that are not included in the list of pre-analyzed positions.
 
 
+
 ## Installation
 To install the Xcode which is required to compile this project, follow this tutorial:
 https://developer.apple.com/documentation/safari-developer-tools/installing-xcode-and-simulators
