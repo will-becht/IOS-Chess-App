@@ -27,17 +27,23 @@ The third and final mode is the "Analysis" mode, which gives users the ability t
 ### Code Description
 ### Sample Usage
 (((Put videos here)))
-![ChessOpeningsSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/767a2916-f8f1-401f-85d2-a030fd770a02)    
 
 
-![LearnSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/eb7be4a7-0433-480c-8098-fd7c8a8fa5b1)    
-
-
-![SurvivalSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/1d248d45-6945-44af-bdc8-144c68c8366c)    
+https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/931f8060-ae31-49d7-9eae-c1053351a839
 
 
 
-![AnalysisSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/37a57841-4c5c-40a5-993e-18ad053858d3)    
+https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/09b16e9b-4396-45fb-9f99-c72b9b89b302
+
+
+
+https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/7925be42-bfee-4f4a-ae1f-36e2368e0065
+
+
+
+https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/d297bbd8-df24-4fe1-9b44-04704adac7bb
+
+
 
 
 ## App #2: MasterChess
@@ -50,13 +56,18 @@ The app is largely unfinished. Its main functionality lies in the Visualize and 
 ### Sample Usage
 (((Put videos here)))
 
-![MasterChessSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/ae258fc9-749d-4b1d-adf5-67b2c6d109ea)     
+
+https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/059ab0ab-6bef-4193-aeaf-02e09ee38cc7
 
 
-![VisualizeSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/f154dc51-bf3d-455c-ac9c-081da1668b7f)    
+https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/71f2109d-dff2-40a0-bcb0-d5d8d84d388d
 
 
-![CoordinatesSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/975d11f4-0488-4764-9e39-7213a6a799d8)    
+
+
+https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/c826da4f-089e-4d31-9e80-96b7dc37b823
+
+
 
 
 
