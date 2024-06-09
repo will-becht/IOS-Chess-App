@@ -29,8 +29,6 @@ This app represents my first time using Swift as a coding language. From this ex
 
 ### Sample Usage
 
-https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/931f8060-ae31-49d7-9eae-c1053351a839
-
 The Survival mode is the most built-out and robust mode of both of the apps. It allows users to practice a specific opening through a survival-like game where users try to reach as high of a level as possible before they run out of lives. The game also tracks their high score when the app is closed.
 
 https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/7925be42-bfee-4f4a-ae1f-36e2368e0065
