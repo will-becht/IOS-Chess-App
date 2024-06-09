@@ -27,6 +27,9 @@ The third and final mode is the "Analysis" mode, which gives users the ability t
 ### Code Description
 ### Sample Usage
 (((Put videos here)))
+https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/1b3065f4-79ce-4d6f-a079-af787bff5e32
+
+
 
 ## App #2: MasterChess
 The MasterChess app was created to bring users more abstract ways to learn chess. It offers modes allowing users to "Play Blind", without seeing a chess board; "Visualize" to allow users to test their short-term memory by converting a list of moves to an on-board position; and "Coordinate Practice" to help users develop a better instinct for the names of each square to aid in their visualization skills.   
@@ -38,7 +41,7 @@ The app is largely unfinished. Its main functionality lies in the Visualize and 
 ### Sample Usage
 (((Put videos here)))
 
-[Watch](MasterChess/MasterChessSample.mov)
+
 
 
 ## Webscraper
