@@ -38,7 +38,7 @@ The app is largely unfinished. Its main functionality lies in the Visualize and 
 ### Sample Usage
 (((Put videos here)))
 
-MasterChess/MasterChessSample.mov
+(MasterChess/MasterChessSample.mov)
 
 
 ## Webscraper
