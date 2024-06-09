@@ -25,7 +25,7 @@ The second mode is the "Survival" mode, where users can test what they learned a
 The third and final mode is the "Analysis" mode, which gives users the ability to set up positions on a chess board, and then use the Lichess API to return the best move in the position.
 
 ### Code Description
-
+This app represents my first time using Swift as a coding language. From this experience, I learned about the importance of maintaining a clean, modular architecture when writing any sort of object-oriented code. A major fault of mine in this project was poor planning. Without any experience with this language, I did not know what to expect, making it difficult to create a robust design. However, over time, the design was able to evolve into something that now has many use cases, and can easily be built upon to provide more useful functionality.
 
 ### Sample Usage
 
@@ -49,7 +49,7 @@ The MasterChess app was created to bring users more abstract ways to learn chess
 The app is largely unfinished. Its main functionality lies in the Visualize and Coordinates modes.
 
 ### Code Description
-
+The development of this app in SwiftUI taught me a lot about state management, declarative UI design, and using SwiftUI's powerful tools to build responsive interfaces. I utilized @State for local state management, @AppStorage for persistent user settings, and @Environment for handling environment values like view presentation modes. The code showcases SwiftUI's ability to compose views in a declarative syntax, manage conditional rendering, and use complex UI elements like VStack and HStack to structure content. This project deepened my understanding of SwiftUI's capabilities and best practices, preparing me to build more sophisticated and user-friendly applications.
 
 ### Sample Usage
 
