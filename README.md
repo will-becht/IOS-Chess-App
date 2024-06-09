@@ -42,6 +42,11 @@ The app is largely unfinished. Its main functionality lies in the Visualize and 
 (((Put videos here)))
 
 
+https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/ece03072-9352-4505-9081-5e9a3d5f1696
+
+https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/5fd2fc59-4100-4306-ae01-3768548acbab
+
+
 
 
 ## Webscraper
