@@ -33,15 +33,24 @@ https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/931f8060-ae31-49d7
 
 
 
-https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/09b16e9b-4396-45fb-9f99-c72b9b89b302
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
+  <video width="320" height="240" controls>
+    <source src="https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/09b16e9b-4396-45fb-9f99-c72b9b89b302" type="video/quicktime">
+    Your browser does not support the video tag.
+  </video>
 
+  <video width="320" height="240" controls>
+    <source src="https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/7925be42-bfee-4f4a-ae1f-36e2368e0065" type="video/quicktime">
+    Your browser does not support the video tag.
+  </video>
 
-https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/7925be42-bfee-4f4a-ae1f-36e2368e0065
+  <video width="320" height="240" controls>
+    <source src="https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/d297bbd8-df24-4fe1-9b44-04704adac7bb" type="video/quicktime">
+    Your browser does not support the video tag.
+  </video>
 
-
-
-https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/d297bbd8-df24-4fe1-9b44-04704adac7bb
+</div>
 
 
 
