@@ -33,7 +33,7 @@ https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/931f8060-ae31-49d7
 
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<div style="display: flex; justify-content: space-between;">
 
   <video width="320" height="240" controls>
     <source src="https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/09b16e9b-4396-45fb-9f99-c72b9b89b302" type="video/quicktime">
