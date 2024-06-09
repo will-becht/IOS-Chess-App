@@ -27,8 +27,8 @@ The third and final mode is the "Analysis" mode, which gives users the ability t
 ### Code Description
 ### Sample Usage
 (((Put videos here)))
-https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/1b3065f4-79ce-4d6f-a079-af787bff5e32
 
+![AnalysisSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/78961871-2282-455f-9940-ab41bfeab421)
 
 
 ## App #2: MasterChess
