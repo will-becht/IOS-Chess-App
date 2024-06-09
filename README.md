@@ -27,11 +27,17 @@ The third and final mode is the "Analysis" mode, which gives users the ability t
 ### Code Description
 ### Sample Usage
 (((Put videos here)))
-![ChessOpeningsSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/767a2916-f8f1-401f-85d2-a030fd770a02)
-![LearnSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/eb7be4a7-0433-480c-8098-fd7c8a8fa5b1)
-![SurvivalSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/1d248d45-6945-44af-bdc8-144c68c8366c)
+![ChessOpeningsSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/767a2916-f8f1-401f-85d2-a030fd770a02)    
 
-![AnalysisSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/37a57841-4c5c-40a5-993e-18ad053858d3)
+
+![LearnSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/eb7be4a7-0433-480c-8098-fd7c8a8fa5b1)    
+
+
+![SurvivalSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/1d248d45-6945-44af-bdc8-144c68c8366c)    
+
+
+
+![AnalysisSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/37a57841-4c5c-40a5-993e-18ad053858d3)    
 
 
 ## App #2: MasterChess
@@ -44,9 +50,15 @@ The app is largely unfinished. Its main functionality lies in the Visualize and 
 ### Sample Usage
 (((Put videos here)))
 
-![MasterChessSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/ae258fc9-749d-4b1d-adf5-67b2c6d109ea)
-![VisualizeSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/f154dc51-bf3d-455c-ac9c-081da1668b7f)
-![CoordinatesSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/975d11f4-0488-4764-9e39-7213a6a799d8)
+![MasterChessSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/ae258fc9-749d-4b1d-adf5-67b2c6d109ea)     
+
+
+![VisualizeSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/f154dc51-bf3d-455c-ac9c-081da1668b7f)    
+
+
+![CoordinatesSample](https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/975d11f4-0488-4764-9e39-7213a6a799d8)    
+
+
 
 
 
