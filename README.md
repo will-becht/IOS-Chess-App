@@ -37,7 +37,7 @@ https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/7925be42-bfee-4f4a
 
 The Analysis mode uses the Lichess API to check if a given position is in the Lichess database. If it is, it will evaluate the given position and judge the users move based on a Stockfish evaluation.
 
-https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/d297bbd8-df24-4fe1-9b44-04704adac7bb)
+https://github.com/will-becht/IOS-Chess-Apps/assets/172098082/d297bbd8-df24-4fe1-9b44-04704adac7bb
 
 
 
